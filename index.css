@@ -1,3 +1,11 @@
 body {
-    background-color: rgb(128, 255, 212);
+    margin: 0;
+}
+
+nav {
+    background-color: red;
+}
+
+#welcome-section {
+    background-color: antiquewhite;
 }
